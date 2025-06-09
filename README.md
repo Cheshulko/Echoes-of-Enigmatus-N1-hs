@@ -3,5 +3,5 @@
 | Quest  | Part 1 | Part 2 | Part 3  | 
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [Quest 01](app/Quest01/Solve.hs): EniCode                    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 02](app/Quest02/Solve.hs): Tangled Trees              | 	TBD       | 	TBD       | 	TBD       |
+| [Quest 02](app/Quest02/Solve.hs): Tangled Trees              | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 03](app/Quest03/Solve.hs): The Conical Snail Clock    | 	TBD       | 	TBD       | 	TBD       |
